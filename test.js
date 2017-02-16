@@ -1,5 +1,5 @@
 const assert = require('assert');
-const test   = require('../script.js')
+const test   = require('script.js')
 const should = require('chai').should()
 
   describe('Test -> Add operation :', function() {
