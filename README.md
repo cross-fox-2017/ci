@@ -4,3 +4,4 @@ testing math function using mocha and chai
 ```
 
 # Screenshot
+![alt tag](https://github.com/radityaarya/ci/blob/master/ss.png)
